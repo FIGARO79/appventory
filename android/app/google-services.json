@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "752609996355",
+    "project_id": "appventory-1751e",
+    "storage_bucket": "appventory-1751e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752609996355:android:bb24e9b76a45258a48eef6",
+        "android_client_info": {
+          "package_name": "com.example.appventory"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfSNZlgBOp_O1BMlqzIXlZK7Te0eimGBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
